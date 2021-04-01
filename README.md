@@ -4,4 +4,4 @@ Needs https://github.com/cocobelgica/AutoHotkey-JSON JSON.ahk
 
 First Screenshot:
 
-https://github.com/dunahan/nwn_langedit/blob/main/pics/screen_001.png?raw=true
+https://github.com/dunahan/nwn_langedit/blob/main/pics/screen_001.png
